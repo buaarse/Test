@@ -12,3 +12,5 @@ this is new file
 
 我增加自己的语句进入
 
+this is a new test. this will generate a new conflicts.
+
